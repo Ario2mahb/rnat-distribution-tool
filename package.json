@@ -1,6 +1,6 @@
 {
   "name": "rat-distribution",
-  "version": "1.0.0",
+  "version": "7.9.0",
   "description": "Tool for rNat rewards distribution",
   "license": "MIT",
   "scripts": {
